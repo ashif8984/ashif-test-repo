@@ -1,3 +1,7 @@
 first content
 2nd content
 this is patch comit
+<<<<<<< HEAD
+=======
+3rd content
+>>>>>>> feature1
